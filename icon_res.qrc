@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>serialport.ico</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>png/portopen.png</file>
+        <file>png/portclose.png</file>
+        <file>png/savedisp.png</file>
+        <file>png/startsave.png</file>
+        <file>png/stopsave.png</file>
+    </qresource>
+</RCC>
